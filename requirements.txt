@@ -1,0 +1,13 @@
+pytelegrambotapi
+request
+io
+
+shutil
+tarfile
+os
+parser
+pprint
+
+qrcode
+PIL
+
